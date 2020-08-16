@@ -1,0 +1,5 @@
+name: PiglingTrade
+main: de.bergtiger.piglingTrade.PiglingTrade
+version: 1.0
+author: Bergtiger
+api-version: 1.16
